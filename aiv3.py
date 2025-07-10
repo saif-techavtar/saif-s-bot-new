@@ -1,7 +1,8 @@
 import streamlit as st
 import openai
 
-# Set your OpenAI API Key
+# Set your OpenAI API Key secret
+
 openai.api_key = st.secrets["openai_key"]
 
 # Initialize session state
