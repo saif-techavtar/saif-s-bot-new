@@ -2,6 +2,3 @@ openai
 streamlit
 PyPDF2
 Pillow
-io
-Image
-sqlite3
